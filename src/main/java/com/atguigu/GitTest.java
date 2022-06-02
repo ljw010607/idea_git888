@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("第二个更新");
         System.out.println("第三个更新");
         System.out.println("dev");
+        System.out.println("推送");
     }
 }
